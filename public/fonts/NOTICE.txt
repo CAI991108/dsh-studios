@@ -1,0 +1,3 @@
+This project uses MiSans VF by Xiaomi and its design partners.
+The original, unmodified font and its copyright metadata are retained.
+See MiSans-license.pdf and https://hyperos.mi.com/font/zh/.

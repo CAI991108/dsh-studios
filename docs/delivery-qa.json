@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-10-19T06:36:04.835759+00:00",
+  "versionsShareIdenticalVideoBitstream": true,
+  "files": [
+    {
+      "file": "omarchy-NTE-1080p.mp4",
+      "sha256": "c5f8443cc6dde760890e744f2fc8286ddc10af647da0be1c8e9563483ae7fa37",
+      "videoBitstreamHash": "SHA256=e18cc7fcbed6d2693826690cdb82e558dc80c2d56b0c3b0cb729b9f9c7a100d9",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1",
+            "start_time": "0.000000",
+            "nb_read_frames": "3705",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "r_frame_rate": "0/0",
+            "start_time": "0.000000",
+            "nb_read_frames": "5790"
+          }
+        ],
+        "format": {
+          "duration": "123.500000",
+          "size": "34016054"
+        }
+      },
+      "completeDecode": "pass"
+    },
+    {
+      "file": "omarchy-NTE-no-bgm.mp4",
+      "sha256": "407942b2c67f69713aa87c8b78abf77161b445245fcc7a48543976719b3a8c8b",
+      "videoBitstreamHash": "SHA256=e18cc7fcbed6d2693826690cdb82e558dc80c2d56b0c3b0cb729b9f9c7a100d9",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1",
+            "start_time": "0.000000",
+            "nb_read_frames": "3705",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "48000",
+            "r_frame_rate": "0/0",
+            "start_time": "0.000000",
+            "nb_read_frames": "5790"
+          }
+        ],
+        "format": {
+          "duration": "123.500000",
+          "size": "32630804"
+        }
+      },
+      "completeDecode": "pass"
+    }
+  ],
+  "limits": "Full decoding, sampled visual inspection and objective audio analysis; subjective continuous listening is not claimed."
+}

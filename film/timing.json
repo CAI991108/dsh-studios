@@ -1,0 +1,286 @@
+{
+  "fps": 30,
+  "total": 2966,
+  "shots": [
+    {
+      "id": "hook",
+      "from": 0,
+      "duration": 135,
+      "voiceFrom": 12,
+      "voiceDuration": 87,
+      "src": ""
+    },
+    {
+      "id": "desktop",
+      "from": 135,
+      "duration": 95,
+      "voiceFrom": 12,
+      "voiceDuration": 183,
+      "src": ""
+    },
+    {
+      "id": "ricing",
+      "from": 230,
+      "duration": 270,
+      "voiceFrom": 12,
+      "voiceDuration": 189,
+      "src": ""
+    },
+    {
+      "id": "bridge",
+      "from": 500,
+      "duration": 180,
+      "voiceFrom": 12,
+      "voiceDuration": 132,
+      "src": ""
+    },
+    {
+      "id": "fish",
+      "from": 680,
+      "duration": 180,
+      "voiceFrom": 12,
+      "voiceDuration": 109,
+      "src": ""
+    },
+    {
+      "id": "badge",
+      "from": 860,
+      "duration": 180,
+      "voiceFrom": 12,
+      "voiceDuration": 139,
+      "src": ""
+    },
+    {
+      "id": "rice1",
+      "from": 1040,
+      "duration": 82,
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    },
+    {
+      "id": "rice2",
+      "from": 1122,
+      "duration": 173,
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    },
+    {
+      "id": "slider",
+      "from": 1295,
+      "duration": 141,
+      "voiceFrom": 12,
+      "voiceDuration": 213,
+      "src": ""
+    },
+    {
+      "id": "max",
+      "from": 1436,
+      "duration": 195,
+      "voiceFrom": 12,
+      "voiceDuration": 139,
+      "src": ""
+    },
+    {
+      "id": "themes",
+      "from": 1631,
+      "duration": 255,
+      "voiceFrom": 12,
+      "voiceDuration": 205,
+      "src": ""
+    },
+    {
+      "id": "extras",
+      "from": 1886,
+      "duration": 195,
+      "voiceFrom": 12,
+      "voiceDuration": 150,
+      "src": ""
+    },
+    {
+      "id": "light",
+      "from": 2081,
+      "duration": 240,
+      "voiceFrom": 12,
+      "voiceDuration": 190,
+      "src": ""
+    },
+    {
+      "id": "setup",
+      "from": 2321,
+      "duration": 210,
+      "voiceFrom": 12,
+      "voiceDuration": 155,
+      "src": ""
+    },
+    {
+      "id": "payoff",
+      "from": 2531,
+      "duration": 270,
+      "voiceFrom": 12,
+      "voiceDuration": 206,
+      "src": ""
+    },
+    {
+      "id": "outro",
+      "from": 2801,
+      "duration": 165,
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    }
+  ],
+  "captions": [
+    {
+      "id": "hook-0",
+      "from": 24,
+      "duration": 75,
+      "text": "所有人，感受！原来Linux 也能这么美吗"
+    },
+    {
+      "id": "desktop-2",
+      "from": 156,
+      "duration": 74,
+      "text": "这套Omarchy配置，"
+    },
+    {
+      "id": "ricing-4",
+      "from": 248,
+      "duration": 103,
+      "text": "壁纸、窗口、终端，输入法都跟着主题走。"
+    },
+    {
+      "id": "ricing-5",
+      "from": 354,
+      "duration": 76,
+      "text": "随时对着桌面发个呆，赏心悦目"
+    },
+    {
+      "id": "bridge-6",
+      "from": 519,
+      "duration": 57,
+      "text": "Ricing不止到桌面"
+    },
+    {
+      "id": "bridge-7",
+      "from": 579,
+      "duration": 68,
+      "text": "【Super】+【D】打开 DSH"
+    },
+    {
+      "id": "fish-8",
+      "from": 704,
+      "duration": 101,
+      "text": "好家伙 这里还有一只，蓝色大肥鱼"
+    },
+    {
+      "id": "badge-9",
+      "from": 878,
+      "duration": 132,
+      "text": "会漂、会发光、还会，哦鲸鲸..."
+    },
+    {
+      "id": "rice-10",
+      "from": 1061,
+      "duration": 60,
+      "text": "和神对话，需要100美刀＄"
+    },
+    {
+      "id": "rice-11",
+      "from": 1124,
+      "duration": 88,
+      "text": "而一次和神鲸的对话，只需要两碗白饭"
+    },
+    {
+      "id": "slider-14",
+      "from": 1314,
+      "duration": 122,
+      "text": "还可以，给神鲸，挂个挡。"
+    },
+    {
+      "id": "max-16",
+      "from": 1457,
+      "duration": 30,
+      "text": "推到 Max。"
+    },
+    {
+      "id": "max-17",
+      "from": 1490,
+      "duration": 96,
+      "text": "滑动变神（Jing），仪式感，先拉满"
+    },
+    {
+      "id": "themes-18",
+      "from": 1650,
+      "duration": 44,
+      "text": "除了 Catppuccin？"
+    },
+    {
+      "id": "themes-19",
+      "from": 1697,
+      "duration": 72,
+      "text": "还有其他 Omarchy 配色可以换。"
+    },
+    {
+      "id": "themes-20",
+      "from": 1772,
+      "duration": 81,
+      "text": "Tokyo Night、Nord等一键切换"
+    },
+    {
+      "id": "extras-21",
+      "from": 1908,
+      "duration": 76,
+      "text": "Music Bar、账单、文件侧栏，"
+    },
+    {
+      "id": "extras-22",
+      "from": 1987,
+      "duration": 61,
+      "text": "这些小组件，都一应俱全"
+    },
+    {
+      "id": "light-23",
+      "from": 2098,
+      "duration": 76,
+      "text": "很会整活 很有梗，配置倒不重。"
+    },
+    {
+      "id": "light-24",
+      "from": 2177,
+      "duration": 108,
+      "text": "一个 profile，两个本地插件，再加配套组件"
+    },
+    {
+      "id": "setup-25",
+      "from": 2339,
+      "duration": 99,
+      "text": "直接把 Github 链接丢给你的大肥鱼，"
+    },
+    {
+      "id": "setup-26",
+      "from": 2441,
+      "duration": 46,
+      "text": "让她照着仓库复现"
+    },
+    {
+      "id": "payoff-27",
+      "from": 2551,
+      "duration": 79,
+      "text": "Omarchy 负责好看，肥鱼负责干饭。"
+    },
+    {
+      "id": "payoff-28",
+      "from": 2633,
+      "duration": 54,
+      "text": "毕竟哪个大模型能拒绝，"
+    },
+    {
+      "id": "payoff-29",
+      "from": 2690,
+      "duration": 63,
+      "text": "在项目执行中，点开飞行模式"
+    }
+  ]
+}

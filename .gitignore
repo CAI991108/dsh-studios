@@ -1,0 +1,13 @@
+# 依赖与缓存（重装可恢复）
+node_modules/
+.cache/
+exports/
+
+# 上一版归档（体积大，只在本地留档）
+_archive/
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
+*.log

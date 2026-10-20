@@ -3,6 +3,10 @@
 日期：2026-10-21
 状态：已采纳
 
+> 读法说明：本文写于收敛当时。文中提到的 `film/`、`src/`、`scripts/`、`docs/工作流.md` 现在都在
+> `_archive/omarchy-nte/` 与 [`../method/工作流.md`](../method/工作流.md) 里——归档目录只在本地，不入库。
+> 决策本身与那些路径无关。
+
 ## 背景
 
 上一版（`_archive/v1-2026-10-19/`）留下了完整的前半段：`定稿清单.md`、`分幕总览.md`、`分镜脚本.md`、`拍摄提示卡.md`、`制作手册.md`、`GLOSSARY.md`、3 条 ADR、一个能播的 `animatic.html`。交付包留下了完整的后半段：`film/` 的 Remotion 源码、`src/` 的浏览器编辑台、`scripts/launch.cjs` 的启动器、`timing.json` 的单一时间轴。

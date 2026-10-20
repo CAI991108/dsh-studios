@@ -1,0 +1,46 @@
+{
+  "name": "未命名 · 三镜头样片",
+  "claim": "一句话主张",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "background": "#11111b",
+  "masterGainDb": 6.2,
+  "voiceOffsetFrames": 1,
+  "palette": {
+    "base": "#1e1e2e",
+    "surface": "#313244",
+    "text": "#cdd6f4",
+    "dim": "#a6adc8",
+    "accent": "#89b4fa",
+    "second": "#cba6f7",
+    "third": "#a6e3a1",
+    "hot": "#f5c2e7"
+  },
+  "font": {
+    "family": "Nte MiSans",
+    "file": "fonts/MiSansVF.ttf",
+    "weight": "150 700",
+    "titleWeight": 540,
+    "bodyWeight": 400,
+    "titleLineHeight": 1.21
+  },
+  "caption": {
+    "fontSize": 60,
+    "bottom": 56,
+    "side": 80,
+    "scrim": "rgba(17,17,27,.84)"
+  },
+  "music": {
+    "src": "",
+    "volume": 0.24,
+    "fadeInFrames": 30,
+    "fadeOutFrames": 40
+  },
+  "cover": {
+    "title": "未命名",
+    "accentLine": "三镜头样片",
+    "background": "",
+    "watermark": ""
+  }
+}

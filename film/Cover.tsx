@@ -1,4 +1,0 @@
-import React from 'react';
-import {AbsoluteFill,Img,staticFile} from 'remotion';
-import {useFilmFonts} from './fonts';
-export const Cover:React.FC=()=>{useFilmFonts();return <AbsoluteFill style={{background:'#1e1e2e',fontFamily:'"Nte MiSans",sans-serif'}}><Img src={staticFile('textures/wallpaper.jpg')} style={{position:'absolute',width:1920,height:1080,objectFit:'cover'}}/><AbsoluteFill style={{background:'linear-gradient(90deg,rgba(17,17,27,.95),rgba(17,17,27,.42) 50%,transparent 80%)'}}/><div style={{position:'absolute',left:110,top:290,fontSize:128,lineHeight:1.23,fontWeight:540,letterSpacing:-3,color:'#cdd6f4'}}>生产力，<br/><span style={{color:'#f5c2e7'}}>稍后再说。</span></div><Img src={staticFile('textures/fish.webp')} style={{position:'absolute',right:150,bottom:80,width:310,height:330,imageRendering:'pixelated',filter:'drop-shadow(0 0 28px #89b4fa88)'}}/></AbsoluteFill>};

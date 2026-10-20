@@ -1,5 +1,0 @@
-ShotCraft Workbench: Apache-2.0, source https://github.com/Vincentwei1021/video-shotcraft
-Adaptations in this package: standalone paths, Windows launch/export, film-only media index, Chinese defaults.
-Remotion and installed dependencies retain their own licenses; see https://github.com/remotion-dev/remotion/blob/main/LICENSE.md
-MiSans license: public/fonts/MiSans-license.pdf
-Audio attribution: docs/sound-sources.md

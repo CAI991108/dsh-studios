@@ -1,0 +1,40 @@
+{
+  "title": "未命名 · 三镜头样片",
+  "claim": "一句话主张",
+  "spec": { "width": 1920, "height": 1080, "fps": 30, "targetSeconds": 10 },
+  "beats": [
+    {
+      "id": "open",
+      "act": "开场",
+      "scene": "title",
+      "headline": "这是骨架，\n不是成片。",
+      "text": "",
+      "caption": "三镜头样片：能改，能渲染，能验收。",
+      "frames": 90,
+      "status": "已定"
+    },
+    {
+      "id": "body",
+      "act": "主体",
+      "scene": "media",
+      "headline": "画面从 params 来。",
+      "text": "",
+      "caption": "",
+      "frames": 120,
+      "status": "已定",
+      "params": { "src": "", "label": "把素材放进 public/" }
+    },
+    {
+      "id": "close",
+      "act": "收尾",
+      "scene": "mock",
+      "headline": "镜头类型在 scenes/。",
+      "text": "",
+      "caption": "",
+      "frames": 90,
+      "status": "已定"
+    }
+  ],
+  "sfx": [],
+  "music": { "src": "", "volume": 0.24 }
+}

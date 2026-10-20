@@ -1,0 +1,40 @@
+{
+  "total": 300,
+  "shots": [
+    {
+      "id": "open",
+      "scene": "title",
+      "from": 0,
+      "duration": 90,
+      "headline": "这是骨架，\n不是成片。",
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    },
+    {
+      "id": "body",
+      "scene": "media",
+      "from": 90,
+      "duration": 120,
+      "headline": "画面从 params 来。",
+      "params": { "src": "", "label": "把素材放进 public/" },
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    },
+    {
+      "id": "close",
+      "scene": "mock",
+      "from": 210,
+      "duration": 90,
+      "headline": "镜头类型在 scenes/。",
+      "voiceFrom": 0,
+      "voiceDuration": 0,
+      "src": ""
+    }
+  ],
+  "captions": [
+    { "id": "open-1", "from": 18, "duration": 62, "text": "三镜头样片：能改，能渲染，能验收。" }
+  ],
+  "sfx": []
+}

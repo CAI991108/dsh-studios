@@ -1,0 +1,14 @@
+# 依赖与缓存（重装可恢复）
+node_modules/
+.cache/
+exports/
+
+# 成片产物不入库，交付时单独打
+*.mp4
+!public/**/*.mp4
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
+*.log

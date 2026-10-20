@@ -38,7 +38,8 @@
 ## 三十秒上手
 
 ```sh
-git clone https://github.com/CAI991108/dsh-studios.git
+# 历史里还留着早期成片素材；只想要生产线就加深浅克隆
+git clone --depth 1 https://github.com/CAI991108/dsh-studios.git
 cd dsh-studios
 
 # 开一支新片（自带三镜头空骨架，零素材也能跑）
